@@ -1,8 +1,9 @@
-LATIHAN WEB API DICODING.
-Membuat Pencarian menu makanan dengan API dari 
-website : www.themealdb.com
+#Belajar Fundamental Front-end Web Development
 
-List Meal.      by. Ronal Lumowa
+Membuat Pencarian menu makanan dengan 
+API dari website : www.themealdb.com
+
+List Meal
 ===============================
 1. Moroccan Carrot Soup
 2. Portuguese custard tarts
