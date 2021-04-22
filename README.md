@@ -13,3 +13,13 @@ List Meal
 6. Portuguese fish stew (Caldeirada de peixe) dll.
 
 untuk list name meal, bisa dilihat di https:www.themealdb.com
+
+# NOTE: 
+# Submission: Membuat Aplikasi Web dengan ES6, Custom Element, NPM, Webpack, dan AJAX
+
+Dengan menerapkan
+Sintaks ES6 
+Web Components 
+Node Package Manager 
+Webpack, dan
+Asynchronous JavaScript Request menggunakan XHR dan Fetch 
