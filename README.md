@@ -17,9 +17,9 @@ untuk list name meal, bisa dilihat di https:www.themealdb.com
 # NOTE: 
 # Submission: Membuat Aplikasi Web dengan ES6, Custom Element, NPM, Webpack, dan AJAX
 
-Dengan menerapkan
-Sintaks ES6 
-Web Components 
-Node Package Manager 
-Webpack, dan
-Asynchronous JavaScript Request menggunakan XHR dan Fetch 
+1. Dengan menerapkan
+2. Sintaks ES6 
+3. Web Components 
+4. Node Package Manager 
+5. Webpack, dan
+6. Asynchronous JavaScript Request menggunakan XHR dan Fetch 
